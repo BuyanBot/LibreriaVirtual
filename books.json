@@ -1,0 +1,422 @@
+[
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1pEqtPrXbdBoTFOCsno-3T7grRqzbM3zH",
+        "title": "1984",
+        "autor": "George Orwell",
+        "color": "#fff2a2",
+        "year": "1949"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1-6SRsaCmKDih7THVGmP8wF0U3QYXPI3H",
+        "title": "Los miserables",
+        "autor": "Victor Hugo",
+        "color": "#1dab6f",
+        "year": "1862"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1oPagzftx-vrRxOXFedTE3lDbzGED769e",
+        "title": "El alquimista",
+        "autor": "Paulo Coelho",
+        "color": "#dd0063",
+        "year": "1988"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1anh5dp1IcJOUkPpvAdrICKujtbW9iX0c",
+        "title": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "color": "#275b9f",
+        "year": "1813"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1_0p01P40LBX19bajOynq6LGMzj-TmNBA",
+        "title": "Frankestein",
+        "autor": "Mary Shelley",
+        "color": "#8fce00",
+        "year": "1818"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=15jbXOsLMwlLyw-Oj5koKQJN929b_Nx4H",
+        "title": "Los tres mosqueteros",
+        "autor": "Alexandre Dumas",
+        "color": "#cc0000",
+        "year": "1844"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1GCYWVwwonHCPV8lInFUPWWw7tYW6iYlO",
+        "title": "Cumbres borrascosas",
+        "autor": "Emily Brontë",
+        "color": "#c7709e",
+        "year": "1847"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1wkvAbBsUgSCx-Z2YUywcYUZkCZ3TSz_g",
+        "title": "Moby Dick",
+        "autor": "Herman Melville",
+        "color": "#6fa8dc",
+        "year": "1851"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1ZTBBpyLEFX2spBc68L6z_FHKUFxZz9K2",
+        "title": "Madame Bovary",
+        "autor": "Gustave Flaubert",
+        "color": "#f1c232",
+        "year": "1857"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1v9ORIpwqJQ-Q7XzO69t3chaj145uG-nq",
+        "title": "Oliver Twist",
+        "autor": "Charles Dickens",
+        "color": "#ff7f45",
+        "year": "1838"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1iMEF1QGm2oW71g56_014UUG0bbYXXcb3",
+        "title": "David Copperfield",
+        "autor": "Charles Dickens",
+        "color": "#ff7f45",
+        "year": "1850"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1VhC9YUOEL4-iOHRf5rxp-U4QiP8wvICf",
+        "title": "Grandes esperanzas",
+        "autor": "Charles Dickens",
+        "color": "#ff7f45",
+        "year": "1861"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1PgFcnH9oS2ZQddl833zPfVIA--6x1oGd",
+        "title": "Crimen y castigo",
+        "autor": "Fiodor Dostoievski",
+        "color": "#91ff45",
+        "year": "1866"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1U0RCx-yguuueLZmLeEpgboHJefxf6vaZ",
+        "title": "Guerra y paz",
+        "autor": "León Tolstói",
+        "color": "#45f6ff",
+        "year": "1867"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1ztiL0xi_I7c5k470bVS2BtpHeCRlywfq",
+        "title": "Mujercitas",
+        "autor": "Louisa May Alcott",
+        "color": "#8245ff",
+        "year": "1869"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1sGCUWlordlivbAjOB5LYm3vVemNZ-WaH",
+        "title": "Ana Karenina",
+        "autor": "León Tolstói",
+        "color": "#45f6ff",
+        "year": "1877"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1DC_8tQtuQm45SWK7l581RKMI1ptecaDS",
+        "title": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "color": "#dc45ff",
+        "year": "1890"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1oTEI7Zn2zPhZfB6TZki9FtykYwXo6nLX",
+        "title": "La señora Dalloway",
+        "autor": "Virginia Woolf",
+        "color": "#ff45a7",
+        "year": "1925"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1zqqJ4S9282Ayt5nOIHXN8kAwexqZYcgK",
+        "title": "El gran Gatsby",
+        "autor": "Scott Fitzgerald",
+        "color": "#ed0000",
+        "year": "1925"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1_0p01P40LBX19bajOynq6LGMzj-TmNBA",
+        "title": "Rebelión en la granja",
+        "autor": "George Orwell",
+        "color": "#fff2a2",
+        "year": "1945"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1R5Xj90i7l6swg-k-W_r14QOcfhjOGIu2",
+        "title": "Ilíada",
+        "autor": "Homero",
+        "color": "#4e00ed",
+        "year": "Siglo VIII a.C."
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1cqaixNljSN4H8Em0OJsj9GRQkrlL56fg",
+        "title": "Eneida",
+        "autor": "Virgilio",
+        "color": "#0006ed",
+        "year": "Siglo I a.C."
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1_LKUFpQT4mQRCGvlCEQnp6m__ypoLALM",
+        "title": "Metamorfosis",
+        "autor": "Ovidio",
+        "color": "#3bcd47",
+        "year": "8 d.C."
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1YjD6PD8sxlDdEkUNcqhFgCjkjnBP1GOq",
+        "title": "Divina comedia",
+        "autor": "Dante",
+        "color": "#9f2727",
+        "year": "1314"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1cLRXv2W2aZi93vciBJj0W7qcXfKULAA3",
+        "title": "Cuentos de Canterbury",
+        "autor": "Geoffrey Chaucer",
+        "color": "#59279f",
+        "year": "1476"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=12E65G0CAu6aTKL30DMgU8u8ASw2nVYiN",
+        "title": "Catedral",
+        "autor": "Raymond Carver",
+        "color": "#fcba03",
+        "year": "1983"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1v_njPdw03BnJDfrHpxX0EW294X-PX3A3",
+        "title": "El umbral de la noche",
+        "autor": "Stephen King",
+        "color": "#eb4034",
+        "year": "1978"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1yI-zOV_QDiAbBxU85CrBriLXSoa38JdH",
+        "title": "El Aleph",
+        "autor": "Jorge Luis Borges",
+        "color": "#587246",
+        "year": "1949"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1s6OeihCeziKm1gJlgMmchR5htWDg9g7e",
+        "title": "Pájaros de América",
+        "autor": "Lorrie Moore",
+        "color": "#5B3A29",
+        "year": "1998"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1M03E1QQEuc4s2PgTLS9GSAAhJyLOJ_Ct",
+        "title": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "color": "#0E294B",
+        "year": "1967"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1NUYlV_hGEOpIyf8GoWcj4-hBRGqqB4jv",
+        "title": "Nada",
+        "autor": "Carmen Laforet",
+        "color": "#999950",
+        "year": "1945"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1X6tT7Ehwz4hiaojprCe4BzvKFFB1628M",
+        "title": "La muerte en Venecia",
+        "autor": "Thomas Mann",
+        "color": "#287233",
+        "year": "1912"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1xZPWqEAmKGphuilXuzRCi7hM0F5w6iXa",
+        "title": "Crónicas marcianas",
+        "autor": "Ray Bradbury",
+        "color": "#DE4C8A",
+        "year": "1950"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1S9HXuL9eayzVJlTV2XmwFNEWrEIXWYmg",
+        "title": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "color": "#F39F18",
+        "year": "1956"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1v4fmpLLx-ivGkMj6RmZEP23xaNoHNUEt",
+        "title": "El señor de las moscas",
+        "autor": "William Golding",
+        "color": "#FAD201",
+        "year": "1954"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1f8MWq_rdfuJeNMwCI-vJxLiiyh71s7dr",
+        "title": "El guardián entre el centeno",
+        "autor": "J. D. Salinger",
+        "color": "#3B3C36",
+        "year": "1951"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1HXZ7jMEXKb3HXF2b1zXWkpx3n2Xo5XHq",
+        "title": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "color": "#2271B3",
+        "year": "1915"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1S1SUafoKAKvkoYsdgddGirPhZ4XOq8yW",
+        "title": "El extranjero",
+        "autor": "Albert Camus",
+        "color": "#F44611",
+        "year": "1942"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=15zeNB6xD4AYK0fpWmP_jPubyvayvhnEa",
+        "title": "A sangre fría",
+        "autor": "Truman Capote",
+        "color": "#922B3E",
+        "year": "1966"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1ZXEpaN4eNtjDbpvsy2_U6AcAXXPBJsh1",
+        "title": "El club de la lucha",
+        "autor": "Chuck Palahniuk",
+        "color": "#A18594",
+        "year": "1996"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1jsBnglQzgdev0ETdaY67QJNGVaYt3Bh3",
+        "title": "Los hermanos Karamazov",
+        "autor": "Fiodor Dostoievski",
+        "color": "#91ff45",
+        "year": "1880"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1KyIx3GnP6Lk4pov8pJI29zTXq-cixNk3",
+        "title": "Las mil y una noches",
+        "autor": "Anónimo",
+        "color": "#DC9D00",
+        "year": "Siglo XVIII"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1Ma7cbCVeuJ8H9YZTc2VuvJ2K-PtKbEcu",
+        "title": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "color": "#F80000",
+        "year": "1605"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1WAzdkTkM1_220V_c_NtmjDW8kUIZdzNK",
+        "title": "Jane Eyre",
+        "autor": "Charlotte Brontë",
+        "color": "#CDA434",
+        "year": "1847"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1v8NCZoPXt3TOXIOThAZgV6RObqP6s4Jt",
+        "title": "Mi tío Oswald",
+        "autor": "Roald Dahl",
+        "color": "#D95030",
+        "year": "1979"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1dGjnJEhXQVW0zMIr_5KkdM9j1sQ8q-7d",
+        "title": "Rayuela",
+        "autor": "Julio Cortázar",
+        "color": "#025669",
+        "year": "1963"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1CcIE3xkKBZyzJe5mExZFtJlnJ5mqgaxf",
+        "title": "El viejo y el mar",
+        "autor": "Ernest Hemingway",
+        "color": "#E63244",
+        "year": "1952"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=10yQbVTORYxuS_tx86PRb75IsDPgIF_BN",
+        "title": "Un mundo feliz",
+        "autor": "Aldous Huxley",
+        "color": "#25221B",
+        "year": "1932"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1XM3kV2DRkOSB4khh1iHC7TlwkVsY7cnb",
+        "title": "Pedro Páramo",
+        "autor": "Juan Rulfo",
+        "color": "#B44C43",
+        "year": "1955"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1nH2IN0L9iUTbo7aL9cF8ipB3P5QLEEOz",
+        "title": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "color": "#DE4C8A",
+        "year": "1953"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1cyAWjhDZ9CtJAJD1IEvP7_FeG0WjzGGS",
+        "title": "American Psycho",
+        "autor": "Bret Easton Ellis",
+        "color": "#734B5E",
+        "year": "1991"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1USXJnX6GKZGsDyPjgq-k7i_WP5haOqnD",
+        "title": "Alicia en el país de las maravillas",
+        "autor": "Lewis Carrol",
+        "color": "#BF4342",
+        "year": "1865"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=12eZqMiurouAuB2Fe88O6FQ0KP-jJ2LWg",
+        "title": "Romeo y Julieta",
+        "autor": "William Shakespeare",
+        "color": "#4D7EA8",
+        "year": "1597"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=19GQsc2-44dJHphr_NHlhePwBqLkXmPGf",
+        "title": "Hamlet",
+        "autor": "William Shakespeare",
+        "color": "#4D7EA8",
+        "year": "1600"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1lzv7pRukSZ9wXBc2uhl1RCuy1QY2GrFp",
+        "title": "Siddhartha",
+        "autor": "Hermann Hesse",
+        "color": "#EFEA5A",
+        "year": "1922"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1A_hMj-yVaYRE8bYsMGUl5E7Va6QJ9Cdj",
+        "title": "El principito",
+        "autor": "Saint Exupéry",
+        "color": "#70D6FF",
+        "year": "1943"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1XfqUf-RmIkA-xfM2tZCoyXjekxz0Bdqm",
+        "title": "Asesinato en el Orient Express",
+        "autor": "Agatha Christie",
+        "color": "#218380",
+        "year": "1934"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=13r-k_vecHkE-TEgIILvH2telE79B_-Ev",
+        "title": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "color": "#0D1321",
+        "year": "1955"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1VfduG88wK464uzCN4RKzVUoOpQUxtd2k",
+        "title": "Fortunata y Jacinta",
+        "autor": "Benito Pérez Galdós",
+        "color": "#FFEDDF",
+        "year": "1887"
+    },
+    {
+        "file": "https://drive.google.com/uc?export=download&id=1_ChEzKgxqF_J7GAG8bg_8kKwkfYqp4fR",
+        "title": "La mujer de blanco",
+        "autor": "Wilkie Collins",
+        "color": "#C5D86D",
+        "year": "1860"
+    }
+]

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Librería Virtual</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/6e4014a1a1.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Librería Virtual</h1>
+            <input type="text" class="search" id="search" onkeyup="search()" placeholder="Buscar producto por nombre">
+        </div>
+
+        <div class="scroll">
+            <div class="scroll-slide">
+                <div class="scroll-item"><span class="Kafka"></span><h1>Franz Kafka</h1></div>
+                <div class="scroll-item"><span class="Wilde"></span><h1>Oscar Wilde</h1></div>
+                <div class="scroll-item"><span class="Orwell"></span><h1>George Orwell</h1></div>
+                <div class="scroll-item"><span class="Austen"></span><h1>Jane Austen</h1></div>
+                <div class="scroll-item"><span class="Dostoievski"></span><h1>Dostoievski</h1></div>
+                <div class="scroll-item"><span class="Coelho"></span><h1>Paulo Coelho</h1></div>
+                <div class="scroll-item"><span class="Shelley"></span><h1>Mary Shelley</h1></div>
+                <div class="scroll-item"><span class="Exupery"></span><h1>Saint-Exupéry</h1></div>
+                <div class="scroll-item"><span class="Marquez"></span><h1>García Márquez</h1></div>
+                <div class="scroll-item"><span class="Capote"></span><h1>Truman Capote</h1></div>
+                <div class="scroll-item"><span class="Agatha"></span><h1>Agatha Christie</h1></div>
+            </div>
+            <div class="scroll-slide">
+                <div class="scroll-item"><span class="Kafka"></span><h1>Franz Kafka</h1></div>
+                <div class="scroll-item"><span class="Wilde"></span><h1>Oscar Wilde</h1></div>
+                <div class="scroll-item"><span class="Orwell"></span><h1>George Orwell</h1></div>
+                <div class="scroll-item"><span class="Austen"></span><h1>Jane Austen</h1></div>
+                <div class="scroll-item"><span class="Dostoievski"></span><h1>Dostoievski</h1></div>
+                <div class="scroll-item"><span class="Coelho"></span><h1>Paulo Coelho</h1></div>
+                <div class="scroll-item"><span class="Shelley"></span><h1>Mary Shelley</h1></div>
+                <div class="scroll-item"><span class="Exupery"></span><h1>Saint-Exupéry</h1></div>
+                <div class="scroll-item"><span class="Marquez"></span><h1>García Márquez</h1></div>
+                <div class="scroll-item"><span class="Capote"></span><h1>Truman Capote</h1></div>
+                <div class="scroll-item"><span class="Agatha"></span><h1>Agatha Christie</h1></div>
+            </div>
+        </div>
+
+        <div class="books" id="books">
+        </div>
+    </div>
+    <footer>
+        <p>Ningún libro que se ofrece aqui es propiedad mia. Todos los autores están marcados en el libro. Mi intención no es robar ningún contenido. Espero que le guste :)</p>
+    </footer>
+
+    <script src="fetch.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

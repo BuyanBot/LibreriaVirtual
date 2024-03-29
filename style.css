@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #000;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    min-height: 100%;
+    position: relative;
+}
+
+.header{
+    width: 100%;
+    display: flex;
+    border-bottom: 3px solid #000;
+    font-size: 50px;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    background: white;
+    top: 0;
+    z-index: 999;
+    height: 120px;
+}
+
+.total{
+    font-size: 20px;
+}
+
+.search{
+    height: 30px;
+    width: 500px;
+    border-radius: 50px;
+    font-style: italic;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+.scroll{
+    margin-top: 120px;
+    overflow: hidden;
+    padding: 20px 0;
+    display: flex;
+}
+
+.scroll-slide{
+    white-space: nowrap;
+    display: flex;
+    animation: 20s slide infinite linear;
+}
+
+.scroll-item{
+    border: 1px solid #000;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.scroll-item h1{
+    margin: 0 40px;
+    border-radius: 50px;
+    padding-right: 10px;
+}
+
+.scroll-item span{
+    display: inline-block;
+    border-radius: 100px;
+    margin: 0 12px;
+}
+
+span{
+    width: 50px;
+    height: 50px;
+}
+
+.Kafka{
+    background-image: url(assets/kafka.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Wilde{
+    background-image: url(assets/wilde.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Orwell{
+    background-image: url(assets/orwell.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Austen{
+    background-image: url(assets/austen.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Dostoievski{
+    background-image: url(assets/dostoievski.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Coelho{
+    background-image: url(assets/coelho.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Shelley{
+    background-image: url(assets/shelley.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Exupery{
+    background-image: url(assets/exupery.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Marquez{
+    background-image: url(assets/marquez.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Capote{
+    background-image: url(assets/capote.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.Agatha{
+    background-image: url(assets/christie.png);
+    background-size: cover;
+    background-position: center;
+}
+
+@keyframes slide {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+
+#header p{
+    opacity: .5;
+    font-size: 30px;
+}
+
+.books{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    margin-bottom: 29px;
+}
+
+.book{
+    height: 10px;
+    width: 100%;
+    padding: 1em 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #000;
+    cursor: pointer;
+}
+
+.book > div{
+    flex: 3;
+}
+
+.book-header > div{
+    flex: 3;
+}
+
+.book:hover{
+    opacity: 0.5;
+    transform: scale(1.05);
+}
+
+.download{
+    cursor: pointer;
+    color: #000;
+    font-style: none;
+}
+
+.title{
+    display: flex;
+}
+
+.book-title{
+    padding-left: 10px;
+}
+
+.box-color{
+    width: 20px;
+    height: 20px;
+}
+
+
+a{
+    color: #000;
+}
+
+@keyframes fadeIn{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+footer{
+    background: white;
+    border-top: 1px solid #000;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 30px;
+    padding: 5px 10px;
+    text-align: center;
+
+    view-timeline-name: --revealing;
+    view-timeline-axis: block;
+    animation: linear 0.3s fadeIn;
+    animation-timeline: --revealing;
+    animation-range: entry 100% cover 10%;
+}
